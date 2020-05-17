@@ -1,4 +1,5 @@
 {
   "python.pythonPath": "/Users/collin/.virtualenvs/everycheese/bin/python",
-  "python.linting.pylintEnabled": true
+  "python.linting.pylintEnabled": true,
+  "python.formatting.provider": "black"
 }
