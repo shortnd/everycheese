@@ -4,7 +4,7 @@ from django.contrib.auth.mixins import LoginRequiredMixin
 from .models import Cheese
 
 
-class CheeseList(ListView):
+class CheeseListView(ListView):
     model = Cheese
 
 
